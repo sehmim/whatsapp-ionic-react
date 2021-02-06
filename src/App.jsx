@@ -45,8 +45,6 @@ const App = () => {
 
   const { state, dispatch } = useContext(AppContext)
 
-
-
   return(
   <IonApp>
     {

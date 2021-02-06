@@ -11,4 +11,3 @@ This is a clone of whatsapp using the the React mobile friendly interactive libr
 ### Some of the practices followed: 
 
 - Usage of State and React createContext Hook instead of Redux 
-- 
